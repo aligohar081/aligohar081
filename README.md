@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligohar081&label=Profile%20views&color=0e75b6&style=flat" alt="aligohar081" /> </p>
 
-- 🌱 I’m currently learning **Html , CSS , Java script**
+- 🌱 I’m currently learning **Gen AI & Agentic AI**
 
-- 💬 Ask me about **web development,python,c++,Database**
+- 💬 Ask me about **Machine Learning , Deep Learnng , NLP , Gen AI , Agentic AI**
 
-- 📫 How to reach me **u2022081@giki.edu.pk**
+- 📫 How to reach me **alibingohar786@gmail.com / 0349-4421942 )**
 
 - ⚡ Fun fact **I am friendly.**
 
